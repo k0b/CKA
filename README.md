@@ -1,1 +1,1 @@
-# CKA
+# CKA vagrant lab.
